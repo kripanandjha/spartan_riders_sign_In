@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114563215057",
+    "project_id": "favouritetoys-171306"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114563215057:android:ac12b4fa85fc3c35",
+        "android_client_info": {
+          "package_name": "com.example.android.favoritetoys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114563215057-5v91jlt38ta9fsrts8m800082e4msihf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "114563215057-fn5mingf60inqa7p9o8fo807cu65vkc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.favoritetoys",
+            "certificate_hash": "93f9f578cf7a81455a8ab530c9d77b1c4f38a4bd"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCpAUErPTNvHjeXhtvKUbDoEB9ul-7Ukw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
